@@ -1,0 +1,9 @@
+[submodule "NEON_2_SSE"]
+	path = NEON_2_SSE
+	url = https://github.com/intel/ARM_NEON_2_x86_SSE.git
+[submodule "NumKong"]
+	path = NumKong
+	url = https://github.com/ashvardanian/NumKong.git
+[submodule "Highway"]
+	path = Highway
+	url = https://github.com/google/highway.git
